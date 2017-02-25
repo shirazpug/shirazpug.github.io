@@ -122,3 +122,4 @@
 'render_tag_cloud', (97280, 56)
 'render_taxonomies:output/fa/rss.xml', (97792, 144)
 'copy_assets:output/assets/js/colorbox-i18n/jquery.colorbox-pl.js', (98304, 479)
+'render_galleries:output/fa/galleries', (98816, 145)
