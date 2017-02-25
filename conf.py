@@ -86,14 +86,14 @@ BLOG_DESCRIPTION = "Python community in Shiraz, Iran"  # (translatable)
 # in the default language will be shown instead.
 
 # What is the default language?
-DEFAULT_LANG = "en"
+DEFAULT_LANG = "fa"
 
 # What other languages do you have?
 # The format is {"translationcode" : "path/to/translation" }
 # the path will be used as a prefix for the generated pages location
 TRANSLATIONS = {
     DEFAULT_LANG: "",
-    "fa": "./fa",
+    "en": "./en",
 }
 
 # What will translated input files be named like?
