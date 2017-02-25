@@ -14,11 +14,15 @@
 
 ShirazPUG : `Shiraz Python User Group https://shirazpug.github.io/
 <https://shirazpug.github.io/>`_
+
 Telegram Channel: `https://t.me/shirazpug
 <https://t.me/shirazpug/>`_
+
 Twitter Account: `https://twitter.com/ShirazPUG
 <https://twitter.com/ShirazPUG/>`_
+
 Biweekly newsletter:`http://tinyletter.com/shirazpug/
 <http://tinyletter.com/shirazpug/>`_
+
 Facebook Group: `https://www.facebook.com/shirazpug/
 <https://www.facebook.com/shirazpug/>`_
