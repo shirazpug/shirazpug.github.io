@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>http://shirazpug.github.io/archive.html</loc>
-  <lastmod>2017-02-25T20:10:00Z</lastmod>
+  <lastmod>2017-02-25T21:19:00Z</lastmod>
  </url>
  <url>
   <loc>http://shirazpug.github.io/categories/</loc>
@@ -31,7 +31,7 @@
  </url>
  <url>
   <loc>http://shirazpug.github.io/en/archive.html</loc>
-  <lastmod>2017-02-25T20:10:00Z</lastmod>
+  <lastmod>2017-02-25T21:19:00Z</lastmod>
  </url>
  <url>
   <loc>http://shirazpug.github.io/en/categories/</loc>
@@ -40,6 +40,11 @@
  <url>
   <loc>http://shirazpug.github.io/en/galleries/</loc>
   <lastmod>2017-02-25T19:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://shirazpug.github.io/en/posts/newsletter/</loc>
+  <lastmod>2017-02-25T21:19:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fa" href="http://shirazpug.github.io/posts/newsletter/" />
  </url>
  <url>
   <loc>http://shirazpug.github.io/en/posts/start/</loc>
@@ -53,6 +58,10 @@
  <url>
   <loc>http://shirazpug.github.io/listings/</loc>
   <lastmod>2017-02-25T08:20:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://shirazpug.github.io/posts/newsletter/</loc>
+  <lastmod>2017-02-25T21:19:00Z</lastmod>
  </url>
  <url>
   <loc>http://shirazpug.github.io/posts/start/</loc>
