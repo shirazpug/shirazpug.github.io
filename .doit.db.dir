@@ -129,3 +129,4 @@
 'render_taxonomies:output/en/categories/index.html', (112128, 1419)
 'render_galleries:output/en/galleries/index.html', (113664, 4121)
 'render_taxonomies:output/en/rss.xml', (120832, 144)
+'render_galleries:output/en/galleries', (121344, 145)
